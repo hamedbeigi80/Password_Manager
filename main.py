@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Password Manager - A simple desktop password manager
-Author: Your Name
+Author: Hamed Ahmadbeigi
 Date: 2025
 Description: Generate, store, and retrieve passwords with a user-friendly GUI
 """
