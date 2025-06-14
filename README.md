@@ -9,6 +9,8 @@ A simple and secure desktop password manager built with Python and Tkinter. Gene
 - **Search Functionality**: Quickly find saved passwords by website
 - **Auto-copy**: Generated passwords are automatically copied to clipboard
 - **User-friendly GUI**: Clean and intuitive interface
+## Screenshots
+![image](https://github.com/user-attachments/assets/f2bf0fef-e91d-41b9-8a33-adb81c22764e)
 
 ## 🚀 Getting Started
 
@@ -86,9 +88,6 @@ password-manager/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🐛 Known Issues
 
